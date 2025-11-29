@@ -24,3 +24,8 @@ HTML / CSS
 3 - pip install Django pillow django-role-permissions sqlparse tzdata asgiref
 4 - python manage.py migrate
 5 - python manage.py runserver
+
+<img width="1310" height="659" alt="image" src="https://github.com/user-attachments/assets/9dcc2f22-5ccf-45af-8d47-f8996d9f9da1" />
+<img width="1303" height="659" alt="image" src="https://github.com/user-attachments/assets/6cf06f61-4949-4ac3-9ee1-733d721950e0" />
+<img width="1307" height="658" alt="image" src="https://github.com/user-attachments/assets/7855b0be-2ee0-463a-ba5c-4ea989b80935" />
+

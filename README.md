@@ -1,31 +1,34 @@
 🗃️ Sistema de Controle de Estoque (Django)
 
+
 Um sistema web desenvolvido com Django para o gerenciamento de estoque, permitindo o cadastro, visualização, remocão de usuários e listagem.
+
 
 **Funcionalidades**
 
-1 - Listagem de Itens 
 
+1 - Listagem de Itens
 2 - Adicionar Novo Item
-
 3 - Busca e Filtros
-
 4 - Gerenciamento de vendedores
 
 
 **Tecnologias Utilizadas**
 
-Python 3.10+
+- Python 3.10+
 
-Django 5.x
+- Django 5.x
 
-SQLite3
+- SQLite3
 
-Bootstrap 5
+- Bootstrap 5
 
-HTML / CSS
+- HTML / CSS
+
+
 
 **Passo a Passo para preparar o ambiente virtual**
+
 
 1 - python -m venv venv 
 
